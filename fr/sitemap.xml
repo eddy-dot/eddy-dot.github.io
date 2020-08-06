@@ -2,19 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://eddy-dot.github.io/fr/about/</loc><lastmod>2020-05-29T11:11:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://eddy-dot.github.io/about/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://eddy-dot.github.io/zh-cn/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://eddy-dot.github.io/fr/about/"
-                    /></url><url>
             <loc>https://eddy-dot.github.io/fr/categories/</loc><lastmod>2020-04-23T01:22:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"

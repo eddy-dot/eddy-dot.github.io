@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>Basic Git Bash Commands - Eddy Valverde Garro</title><meta name="Description" content="This article shows the basic commands for Linux server administration."><meta property="og:title" content="Basic Git Bash Commands" />
+<meta property="og:description" content="This article shows the basic commands for Linux server administration." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://eddy-dot.github.io/posts/basic-git-bash/" />
+<meta property="og:image" content="https://eddy-dot.github.io/posts/basic-git-bash/git-for-windows.jpg"/>
+<meta property="article:published_time" content="2019-12-01T21:57:40+08:00" />
+<meta property="article:modified_time" content="2020-01-01T16:45:40+08:00" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://eddy-dot.github.io/posts/basic-git-bash/git-for-windows.jpg"/>
+<meta name="twitter:title" content="Basic Git Bash Commands"/>
+<meta name="twitter:description" content="This article shows the basic commands for Linux server administration."/>
+<meta name="application-name" content="Eddy Valverde">
+<meta name="apple-mobile-web-app-title" content="Eddy Valverde"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://eddy-dot.github.io/posts/basic-git-bash/" /><link rel="prev" href="https://eddy-dot.github.io/posts/basic-plpgsql-commands/" /><link rel="next" href="https://eddy-dot.github.io/posts/basic-docker-compose-file/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Basic Git Bash Commands",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/eddy-dot.github.io\/posts\/basic-git-bash\/"
+        },"image": [{
+                            "@type": "ImageObject",
+                            "url": "https:\/\/eddy-dot.github.io\/posts\/basic-git-bash\/git-for-windows.jpg",
+                            "width":  601 ,
+                            "height":  319 
+                        }],"genre": "posts","keywords": "Linux, Bash, Terminal","wordcount":  406 ,
+        "url": "https:\/\/eddy-dot.github.io\/posts\/basic-git-bash\/","datePublished": "2019-12-01T21:57:40+08:00","dateModified": "2020-01-01T16:45:40+08:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+            "@type": "Organization",
+            "name": "Eddy Valverde"},"author": {
+                "@type": "Person",
+                "name": "Eddy Valverde"
+            },"description": "This article shows the basic commands for Linux server administration."
+    }
+    </script></head>
+    <body header-desktop="" header-mobile=""><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Eddy Valverde Garro">Eddy Valverde Garro</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/" title="Eddy Valverde"> Posts </a><a class="menu-item" href="/tags/"> Tags </a><a class="menu-item" href="/categories/"> Categories </a><a class="menu-item" href="/categories/documentation/"> Docs </a><a class="menu-item" href="/about/"> About </a><a class="menu-item" href="https://github.com/eddy-dot" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i>  </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Eddy Valverde Garro">Eddy Valverde Garro</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        Cancel
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="Eddy Valverde">Posts</a><a class="menu-item" href="/tags/" title="">Tags</a><a class="menu-item" href="/categories/" title="">Categories</a><a class="menu-item" href="/categories/documentation/" title="">Docs</a><a class="menu-item" href="/about/" title="">About</a><a class="menu-item" href="https://github.com/eddy-dot" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">Basic Git Bash Commands</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://dits.technology" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>Eddy Valverde</a></span>&nbsp;<span class="post-category">included in <a href="/categories/tutorial/"><i class="far fa-folder fa-fw"></i>Tutorial</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2019-12-01">2019-12-01</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;406 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;2 minutes&nbsp;</div>
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/posts/basic-git-bash/git-for-windows.jpg"
+        data-srcset="/posts/basic-git-bash/git-for-windows.jpg, /posts/basic-git-bash/git-for-windows.jpg 1.5x, /posts/basic-git-bash/git-for-windows.jpg 2x"
+        data-sizes="auto"
+        alt="/posts/basic-git-bash/git-for-windows.jpg"
+        title="This article shows the basic commands for Linux server administration." /></div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#1-create-an-account-in-githubcom">1. Create an account in github.com</a></li>
+        <li><a href="#2-create-a-new-repository">2. Create a new repository</a></li>
+        <li><a href="#3-go-to-your-laptop-open-the-terminal-and-clone-the-repository-you-just-created">3. Go to your laptop, open the terminal and clone the repository you just created</a></li>
+        <li><a href="#4-get-into-the-repositorys-directory-and-open-visula-code">4. Get into the repository&rsquo;s directory and open Visula Code</a></li>
+        <li><a href="#5-open-terminal-in-visual-code">5. Open terminal in Visual code</a></li>
+        <li><a href="#6-type-the-following-commands">6. Type the following commands</a></li>
+        <li><a href="#7-open-a-web-browser-and-type-httpsusernamegithubio">7. Open a web browser and type https://{{username}}.github.io</a></li>
+      </ul>
+    </li>
+    <li><a href="#commands-used-in-this-tutorial">Commands used in this tutorial:</a></li>
+    <li><a href="#other-important-commands">Other important commands:</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h1 id="how-to-use-git-bash">How to use git bash</h1>
+<p>Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.</p>
+<p>In this tutorial we assume you have the next enviroment:</p>
+<ul>
+<li>Ubuntu 20.04</li>
+<li>Visual Code</li>
+<li>Git</li>
+</ul>
+<h3 id="1-create-an-account-in-githubcom">1. Create an account in github.com</h3>
+<p><!-- raw HTML omitted --></p>
+<h3 id="2-create-a-new-repository">2. Create a new repository</h3>
+<p><!-- raw HTML omitted --></p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="1_create_repo.png"
+        data-srcset="/posts/basic-git-bash/1_create_repo.png, 1_create_repo.png 1.5x, /posts/basic-git-bash/1_create_repo.png 2x"
+        data-sizes="auto"
+        alt="/posts/basic-git-bash/1_create_repo.png"
+        title="Add repository" /></p>
+<p><!-- raw HTML omitted --></p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="2_create_repo.png"
+        data-srcset="/posts/basic-git-bash/2_create_repo.png, 2_create_repo.png 1.5x, /posts/basic-git-bash/2_create_repo.png 2x"
+        data-sizes="auto"
+        alt="/posts/basic-git-bash/2_create_repo.png"
+        title="Fill the necessary data" /></p>
+<p><!-- raw HTML omitted --></p>
+<h3 id="3-go-to-your-laptop-open-the-terminal-and-clone-the-repository-you-just-created">3. Go to your laptop, open the terminal and clone the repository you just created</h3>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd ~/Documents/
+git clone https://github.com/<span style="color:#f92672">{{</span>username<span style="color:#f92672">}}</span>/<span style="color:#f92672">{{</span>username<span style="color:#f92672">}}</span>.github.io.git
+</code></pre></div><p><!-- raw HTML omitted --></p>
+<p>For Example:</p>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git clone https://github.com/eddy-dot/eddy-dot.github.io.git
+</code></pre></div><p><!-- raw HTML omitted --></p>
+<h3 id="4-get-into-the-repositorys-directory-and-open-visula-code">4. Get into the repository&rsquo;s directory and open Visula Code</h3>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd <span style="color:#f92672">{{</span>user<span style="color:#f92672">}}</span>.github.io
+code .
+</code></pre></div><p><!-- raw HTML omitted --></p>
+<h3 id="5-open-terminal-in-visual-code">5. Open terminal in Visual code</h3>
+<p><!-- raw HTML omitted --></p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="3_open_terminal_in_vs.png"
+        data-srcset="/posts/basic-git-bash/3_open_terminal_in_vs.png, 3_open_terminal_in_vs.png 1.5x, /posts/basic-git-bash/3_open_terminal_in_vs.png 2x"
+        data-sizes="auto"
+        alt="/posts/basic-git-bash/3_open_terminal_in_vs.png"
+        title="Open terminal in Visual Code" /></p>
+<p><!-- raw HTML omitted --></p>
+<h3 id="6-type-the-following-commands">6. Type the following commands</h3>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git congif --global user.name <span style="color:#e6db74">&#34;github_username&#34;</span>
+git congif --global user.email <span style="color:#e6db74">&#34;github_email&#34;</span>
+echo <span style="color:#e6db74">&#34;Hello World&#34;</span> &gt; index.html
+git add --all
+git commit -m <span style="color:#e6db74">&#34;Initial Commit&#34;</span>
+git push -u origin master
+</code></pre></div><p><!-- raw HTML omitted --></p>
+<h3 id="7-open-a-web-browser-and-type-httpsusernamegithubio">7. Open a web browser and type https://{{username}}.github.io</h3>
+<p><!-- raw HTML omitted --></p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="4_open_website.png"
+        data-srcset="/posts/basic-git-bash/4_open_website.png, 4_open_website.png 1.5x, /posts/basic-git-bash/4_open_website.png 2x"
+        data-sizes="auto"
+        alt="/posts/basic-git-bash/4_open_website.png"
+        title="Open Website" /></p>
+<p><!-- raw HTML omitted --></p>
+<h2 id="commands-used-in-this-tutorial">Commands used in this tutorial:</h2>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git clone
+</code></pre></div><blockquote>
+<p>This command is used to obtain a repository from an existing URL.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git config --global user.name/user.email
+</code></pre></div><blockquote>
+<p>This command sets the username and email address of your github account.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git status
+</code></pre></div><blockquote>
+<p>This command is to check what changes are in the stagging area (green) and what not (red).</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git add --all
+</code></pre></div><blockquote>
+<p>This command add one or multiple changes (new file, deleted file, updated file) to the staging area. &ndash;all means that all changes are added to the staging area. the staging area are the changes reflected in the next commit. If a change shouldn’t be in the staging area, it can be removed with ”git rm file”.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git commit -m “message”
+</code></pre></div><blockquote>
+<p>This command records or snapshots the changes in the staging area permanently in the version history. -m means that the message in the next “” will be recorded in the commit.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git push
+</code></pre></div><blockquote>
+<p>This command sends the committed changes of master branch to your remote repository(the one that is in github.com).</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<h2 id="other-important-commands">Other important commands:</h2>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git branch
+</code></pre></div><blockquote>
+<p>Shows available branches.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git checkout <span style="color:#f92672">{{</span>branchname<span style="color:#f92672">}}</span>
+</code></pre></div><blockquote>
+<p>Swith the branch you are working on.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git checkout -b <span style="color:#f92672">{{</span>branchname<span style="color:#f92672">}}</span>
+</code></pre></div><blockquote>
+<p>Swith to a new branch.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git  pull
+</code></pre></div><blockquote>
+<p>Update local changes with remote repository&rsquo;s changes.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git revert <span style="color:#f92672">{{</span>ffffff<span style="color:#f92672">}}</span>
+</code></pre></div><blockquote>
+<p>Undo changes done in a commit, {{ffffff}} repreents the commit id.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git merge <span style="color:#f92672">{{</span>branchname<span style="color:#f92672">}}</span>
+</code></pre></div><blockquote>
+<p>Updates current branch with a branch changes.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git submodule add https://github.com/<span style="color:#f92672">{{</span>username<span style="color:#f92672">}}</span>/<span style="color:#f92672">{{</span>repository<span style="color:#f92672">}}</span>
+</code></pre></div><blockquote>
+<p>Adds a idependent repository as part of current repository.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git clone --recurse-submodules
+</code></pre></div><blockquote>
+<p>Adds a idependent repository as part of current repository.</p>
+</blockquote>
+<p><!-- raw HTML omitted --></p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2020-01-01</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/linux/">Linux</a>,&nbsp;<a href="/tags/bash/">Bash</a>,&nbsp;<a href="/tags/terminal/">Terminal</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/posts/basic-plpgsql-commands/" class="prev" rel="prev" title="Basic Lightsail Settup"><i class="fas fa-angle-left fa-fw"></i>Basic Lightsail Settup</a>
+            <a href="/posts/basic-docker-compose-file/" class="next" rel="next" title="Basic Docker Compose File">Basic Docker Compose File<i class="fas fa-angle-right fa-fw"></i></a></div>
+</div>
+</article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.74.3">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank"></a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/lightgallery/lightgallery.min.css"><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/algoliasearch/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lightgallery.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-thumbnail.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-zoom.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{},"lightGallery":{"actualSize":false,"exThumbImage":"data-thumbnail","hideBarsDelay":2000,"selector":".lightgallery","speed":400,"thumbContHeight":80,"thumbWidth":80,"thumbnail":true},"search":{"algoliaAppID":"PASDMWALPK","algoliaIndex":"index.en","algoliaSearchKey":"b42948e51daaa93df92381c8e2ac0f93","highlightTag":"em","maxResultLength":10,"noResultsFound":"No results found","snippetLength":30,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

@@ -1,0 +1,46 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Linux - Tag - Eddy Valverde Garro</title>
+        <link>https://eddy-dot.github.io/tags/linux/</link>
+        <description>Linux - Tag - Eddy Valverde Garro</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://eddy-dot.github.io/tags/linux/" rel="self" type="application/rss+xml" /><item>
+    <title>Basic Git Bash Commands</title>
+    <link>https://eddy-dot.github.io/basic-git-bash/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-git-bash/</guid>
+    <description><![CDATA[How to use git bash Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+In this tutorial we assume you have the next enviroment:
+ Ubuntu 20.04 Visual Code Git  1. Create an account in github.com 
+2. Create a new repository]]></description>
+</item><item>
+    <title>Basic Linux Commands</title>
+    <link>https://eddy-dot.github.io/basic-linux-commands/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-linux-commands/</guid>
+    <description><![CDATA[Basic Linux Commands 1  vmstat 5 5    show cpu usage id(idle), 5 times, 5 seconds of difference one another
+ 
+1  top    show current memory and cpu usage, and open applications with its resource consuming percentage.
+ 
+1  history    shows the commands typed y the current user
+ 
+1  cd    navigates in linux directories]]></description>
+</item><item>
+    <title>How to get started with Cloud Computing using AWS</title>
+    <link>https://eddy-dot.github.io/basic-lightsail-settup/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-lightsail-settup/</guid>
+    <description><![CDATA[Use AWS Lightsail to get started The option to start the cloud computing power is using Amazon Lightsail. As Nijim, S says “Lightsail is an easy-to-use cloud platform that offers you everything needed to build an application or website, plus a cost-effective, monthly plan.”
+1. Create aws account here (a credit/debit card is required, you are charged what you use) Or here 
+2. Once in the aws console, look for Lightsail Service, and click on it.]]></description>
+</item><item>
+    <title>Setting up a basic Linux enviroment</title>
+    <link>https://eddy-dot.github.io/basic-linux-enviroment/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-linux-enviroment/</guid>
+    <description><![CDATA[<p>This article shows the a basic settup of a Linux Enviroment.</p>]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,93 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Eddy Valverde Garro</title>
+        <link>https://eddy-dot.github.io/</link>
+        <description>About me</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate>
+            <atom:link href="https://eddy-dot.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Basic Docker Compose Commands</title>
+    <link>https://eddy-dot.github.io/basic-docker-compose-commands/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-docker-compose-commands/</guid>
+    <description><![CDATA[1  docker-compose up -d    Run the services in the docker-compose file in the current directory. The -d is to avoid logs inthe current terminal
+ 1  docker-compose down --volumes    Stop services in the services in the docker-compose file in the current directory. The option &ndash;volumes is to remove volumes associated to this docker-compose.yml
+ ]]></description>
+</item><item>
+    <title>Basic Docker Compose File</title>
+    <link>https://eddy-dot.github.io/basic-docker-compose-file/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-docker-compose-file/</guid>
+    <description><![CDATA[This article shows the basic commands for Linux server administration.]]></description>
+</item><item>
+    <title>Basic Git Bash Commands</title>
+    <link>https://eddy-dot.github.io/basic-git-bash/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-git-bash/</guid>
+    <description><![CDATA[How to use git bash Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+In this tutorial we assume you have the next enviroment:
+ Ubuntu 20.04 Visual Code Git  1. Create an account in github.com 
+2. Create a new repository]]></description>
+</item><item>
+    <title>Basic Lightsail Settup</title>
+    <link>https://eddy-dot.github.io/basic-plpgsql-commands/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-plpgsql-commands/</guid>
+    <description><![CDATA[Basic PL/PGSQL Commands  PL/pgSQL is a procedural programming language supported by the PostgreSQL ORDBMS. It closely resembles Oracle&rsquo;s PL/SQL language. The design of PL/pgSQL aimed to allow PostgreSQL users to perform more complex operations and computations than SQL, while providing ease of use.
+ 1. Create Function 1a. Create SQL function 1 2 3  CREATE OR REPLACE FUNCTION test() RETURNS void AS $$ INSERT INTO mytable VALUES (30),(50) $$ LANGUAGE sql;   1b.]]></description>
+</item><item>
+    <title>Basic Linux Commands</title>
+    <link>https://eddy-dot.github.io/basic-linux-commands/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-linux-commands/</guid>
+    <description><![CDATA[Basic Linux Commands 1  vmstat 5 5    show cpu usage id(idle), 5 times, 5 seconds of difference one another
+ 
+1  top    show current memory and cpu usage, and open applications with its resource consuming percentage.
+ 
+1  history    shows the commands typed y the current user
+ 
+1  cd    navigates in linux directories]]></description>
+</item><item>
+    <title>Basic Postgres Commands</title>
+    <link>https://eddy-dot.github.io/basic-postgres-commands/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-postgres-commands/</guid>
+    <description><![CDATA[Basic Postgres Commands 1. Login in postgres (Linux) 1 2  sudo su - postgres psql   2. Create database, and give access to a new user 1 2 3  CREATE DATABASE mydb; CREATE USER myuser WITH ENCRYPTED PASSWORD &#39;mypass&#39;; GRANT ALL PRIVILEGES ON DATABASE mydb TO myuser;   3. Create Table 1 2 3 4 5 6 7 8 9 10 11 12 13  \c mydb as myuser CREATE TABLE accounts ( user_id serial PRIMARY KEY, username VARCHAR ( 50 ) UNIQUE NOT NULL, password VARCHAR ( 50 ) NOT NULL, email VARCHAR ( 255 ) UNIQUE NOT NULL, created_on TIMESTAMP NOT NULL, last_login TIMESTAMP ); CREATE TABLE mytable (user_id INT PRIMARY KEY);   4.]]></description>
+</item><item>
+    <title>How to get started with Cloud Computing using AWS</title>
+    <link>https://eddy-dot.github.io/basic-lightsail-settup/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-lightsail-settup/</guid>
+    <description><![CDATA[Use AWS Lightsail to get started The option to start the cloud computing power is using Amazon Lightsail. As Nijim, S says “Lightsail is an easy-to-use cloud platform that offers you everything needed to build an application or website, plus a cost-effective, monthly plan.”
+1. Create aws account here (a credit/debit card is required, you are charged what you use) Or here 
+2. Once in the aws console, look for Lightsail Service, and click on it.]]></description>
+</item><item>
+    <title>Lean Startup</title>
+    <link>https://eddy-dot.github.io/lean-startup/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/lean-startup/</guid>
+    <description><![CDATA[<p>Lean startup methodology is an agile method that combines with Lean production method.</p>]]></description>
+</item><item>
+    <title>OKRs</title>
+    <link>https://eddy-dot.github.io/okrs/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/okrs/</guid>
+    <description><![CDATA[<p>This is a tool to enhance the company’s productivity.</p>]]></description>
+</item><item>
+    <title>Setting up a basic Linux enviroment</title>
+    <link>https://eddy-dot.github.io/basic-linux-enviroment/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-linux-enviroment/</guid>
+    <description><![CDATA[<p>This article shows the a basic settup of a Linux Enviroment.</p>]]></description>
+</item></channel>
+</rss>

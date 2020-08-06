@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Agile - Tag - Eddy Valverde Garro</title>
+        <link>https://eddy-dot.github.io/tags/agile/</link>
+        <description>Agile - Tag - Eddy Valverde Garro</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://eddy-dot.github.io/tags/agile/" rel="self" type="application/rss+xml" /><item>
+    <title>Lean Startup</title>
+    <link>https://eddy-dot.github.io/lean-startup/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/lean-startup/</guid>
+    <description><![CDATA[<p>Lean startup methodology is an agile method that combines with Lean production method.</p>]]></description>
+</item><item>
+    <title>OKRs</title>
+    <link>https://eddy-dot.github.io/okrs/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/okrs/</guid>
+    <description><![CDATA[<p>This is a tool to enhance the company’s productivity.</p>]]></description>
+</item></channel>
+</rss>

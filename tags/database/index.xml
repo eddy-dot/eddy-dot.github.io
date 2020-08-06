@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Database - Tag - Eddy Valverde Garro</title>
+        <link>https://eddy-dot.github.io/tags/database/</link>
+        <description>Database - Tag - Eddy Valverde Garro</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://eddy-dot.github.io/tags/database/" rel="self" type="application/rss+xml" /><item>
+    <title>Basic Docker Compose Commands</title>
+    <link>https://eddy-dot.github.io/basic-docker-compose-commands/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-docker-compose-commands/</guid>
+    <description><![CDATA[1  docker-compose up -d    Run the services in the docker-compose file in the current directory. The -d is to avoid logs inthe current terminal
+ 1  docker-compose down --volumes    Stop services in the services in the docker-compose file in the current directory. The option &ndash;volumes is to remove volumes associated to this docker-compose.yml
+ ]]></description>
+</item><item>
+    <title>Basic Docker Compose File</title>
+    <link>https://eddy-dot.github.io/basic-docker-compose-file/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-docker-compose-file/</guid>
+    <description><![CDATA[This article shows the basic commands for Linux server administration.]]></description>
+</item><item>
+    <title>Basic Postgres Commands</title>
+    <link>https://eddy-dot.github.io/basic-postgres-commands/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-postgres-commands/</guid>
+    <description><![CDATA[Basic Postgres Commands 1. Login in postgres (Linux) 1 2  sudo su - postgres psql   2. Create database, and give access to a new user 1 2 3  CREATE DATABASE mydb; CREATE USER myuser WITH ENCRYPTED PASSWORD &#39;mypass&#39;; GRANT ALL PRIVILEGES ON DATABASE mydb TO myuser;   3. Create Table 1 2 3 4 5 6 7 8 9 10 11 12 13  \c mydb as myuser CREATE TABLE accounts ( user_id serial PRIMARY KEY, username VARCHAR ( 50 ) UNIQUE NOT NULL, password VARCHAR ( 50 ) NOT NULL, email VARCHAR ( 255 ) UNIQUE NOT NULL, created_on TIMESTAMP NOT NULL, last_login TIMESTAMP ); CREATE TABLE mytable (user_id INT PRIMARY KEY);   4.]]></description>
+</item></channel>
+</rss>

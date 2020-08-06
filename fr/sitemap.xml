@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://eddy-dot.github.io/fr/about/</loc><lastmod>2020-08-06T11:55:56-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://eddy-dot.github.io/fr/about/</loc><lastmod>2020-05-29T11:11:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://eddy-dot.github.io/about/"
@@ -15,7 +15,7 @@
                     hreflang="fr"
                     href="https://eddy-dot.github.io/fr/about/"
                     /></url><url>
-            <loc>https://eddy-dot.github.io/fr/categories/</loc><lastmod>2020-08-06T11:55:56-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://eddy-dot.github.io/fr/categories/</loc><lastmod>2020-04-23T01:22:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://eddy-dot.github.io/categories/"
@@ -28,7 +28,7 @@
                     hreflang="fr"
                     href="https://eddy-dot.github.io/fr/categories/"
                     /></url><url>
-            <loc>https://eddy-dot.github.io/fr/tags/content/</loc><lastmod>2020-08-06T11:55:56-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://eddy-dot.github.io/fr/tags/content/</loc><lastmod>2020-04-23T01:22:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://eddy-dot.github.io/zh-cn/tags/content/"
@@ -37,7 +37,7 @@
                     hreflang="fr"
                     href="https://eddy-dot.github.io/fr/tags/content/"
                     /></url><url>
-            <loc>https://eddy-dot.github.io/fr/categories/documentation/</loc><lastmod>2020-08-06T11:55:56-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://eddy-dot.github.io/fr/categories/documentation/</loc><lastmod>2020-04-23T01:22:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://eddy-dot.github.io/categories/documentation/"
@@ -50,7 +50,7 @@
                     hreflang="fr"
                     href="https://eddy-dot.github.io/fr/categories/documentation/"
                     /></url><url>
-            <loc>https://eddy-dot.github.io/fr/</loc><lastmod>2020-08-06T11:55:56-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://eddy-dot.github.io/fr/</loc><lastmod>2020-04-23T01:22:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://eddy-dot.github.io/"
@@ -63,7 +63,7 @@
                     hreflang="fr"
                     href="https://eddy-dot.github.io/fr/"
                     /></url><url>
-            <loc>https://eddy-dot.github.io/fr/tags/</loc><lastmod>2020-08-06T11:55:56-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://eddy-dot.github.io/fr/tags/</loc><lastmod>2020-04-23T01:22:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://eddy-dot.github.io/tags/"

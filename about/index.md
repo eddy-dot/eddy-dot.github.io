@@ -25,8 +25,8 @@ Worry about the problem, not the solution.<br />
 
 **Control Version**: <br /> Git<br />
 **DevOps**: <br /> Git Actions, Basic Jenkins<br />
-**Virtualization**:<br /> Docker, Docker Compose, Docker Swarm
-Databases: PostgreSQL, MariaDB, Firebase<br />
+**Virtualization**:<br /> Docker, Docker Compose, Docker Swarm<br />
+**Databases**: <br />PostgreSQL,PL/pgSQL, MariaDB, Firebase<br />
 **Linux**: <br /> Users& Groups permissions Management, Scripts, shells, System process management, Package Management<br />
 **Frameworks**: <br /> SCRUM, Lean Startup, Kanban<br />
 **Cloud Computing**: <br /> AWS Lightsail<br />

@@ -1,25 +1,41 @@
 # Curriculum Vitae
 
+
+Experienced in object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks. <br />
+
+Technology agnostic, the right technology for the right solution.<br />
+
+Quickly learn and master new technologies.<br />
+
+Successful working in both team and self-directed settings.<br />
+
+Worry about the problem, not the solution.<br />
+
+
 ## Personal Details
 
 **Name:** Eddy Valverde Garro <br />
 **Email:** eddy.valverde.garro@protonmail.com  <br />
+**Phone:** +506 8530 1569  <br />
 **Date of birth:** 21/10/1995 <br />
 **Nationality:** Costa Rica  <br />
 **Marital Status:** Single  <br />
 
 ## Skills
 
-**Medium level** <br>
-Docker, Linux, Git, AWS Lightsail,, PostgreSQL, Django, Jekyll, C++, C#, Unity, Java.
-
-**Beginner level** <br>
-C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS, Ruby, Rails, Laravel, NodeJS, Elasticsearch.
+**Control Version**: <br /> Git<br />
+**DevOps**: <br /> Git Actions, Basic Jenkins<br />
+**Virtualization**:<br /> Docker, Docker Compose, Docker Swarm
+Databases: PostgreSQL, MariaDB, Firebase<br />
+**Linux**: <br /> Users& Groups permissions Management, Scripts, shells, System process management, Package Management<br />
+**Frameworks**: <br /> SCRUM, Lean Startup, Kanban<br />
+**Cloud Computing**: <br /> AWS Lightsail<br />
+**Web**: <br /> Hugo<br />
 
 ## Related Work Experience
 
 **Aug 2019 - Feb 2020** <br>
-**Technical Consultant** - Intel Corporation
+**Technical Consultant** - Soluciones INRA
 
 **Nov 2018 - Apr 2019** <br>
 **IT Service Desk Specialist Student** - Intel Corporation
@@ -34,7 +50,7 @@ C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, 
 **Associate Degree of English** - UNA (Universidad Nacional de Costa Rica)  
 
 **2016 - 2019 (interrupted)** <br>
-**Associate Degree of Software Engineering** - UNA (Universidad Nacional de Costa Rica)  
+**Associate Degree of Software Programming** - UNA (Universidad Nacional de Costa Rica)  
 
 **2008 - 2012** <br>
 **High School** - Liceo Fernando Volio Jimenez

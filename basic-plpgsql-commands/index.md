@@ -1,4 +1,4 @@
-# Basic Lightsail Settup
+# Basic PL/pgSQL Settup
 
 
 # Basic PL/PGSQL Commands

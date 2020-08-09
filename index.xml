@@ -32,14 +32,6 @@ In this tutorial we assume you have the next enviroment:
  Ubuntu 20.04 Visual Code Git  1. Create an account in github.com 
 2. Create a new repository]]></description>
 </item><item>
-    <title>Basic Lightsail Settup</title>
-    <link>https://eddy-dot.github.io/basic-plpgsql-commands/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://eddy-dot.github.io/basic-plpgsql-commands/</guid>
-    <description><![CDATA[Basic PL/PGSQL Commands  PL/pgSQL is a procedural programming language supported by the PostgreSQL ORDBMS. It closely resembles Oracle&rsquo;s PL/SQL language. The design of PL/pgSQL aimed to allow PostgreSQL users to perform more complex operations and computations than SQL, while providing ease of use.
- 1. Create Function 1a. Create SQL function 1 2 3  CREATE OR REPLACE FUNCTION test() RETURNS void AS $$ INSERT INTO mytable VALUES (30),(50) $$ LANGUAGE sql;   1b.]]></description>
-</item><item>
     <title>Basic Linux Commands</title>
     <link>https://eddy-dot.github.io/basic-linux-commands/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
@@ -52,6 +44,14 @@ In this tutorial we assume you have the next enviroment:
 1  history    shows the commands typed y the current user
  
 1  cd    navigates in linux directories]]></description>
+</item><item>
+    <title>Basic PL/pgSQL Settup</title>
+    <link>https://eddy-dot.github.io/basic-plpgsql-commands/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://eddy-dot.github.io/basic-plpgsql-commands/</guid>
+    <description><![CDATA[Basic PL/PGSQL Commands  PL/pgSQL is a procedural programming language supported by the PostgreSQL ORDBMS. It closely resembles Oracle&rsquo;s PL/SQL language. The design of PL/pgSQL aimed to allow PostgreSQL users to perform more complex operations and computations than SQL, while providing ease of use.
+ 1. Create Function 1a. Create SQL function 1 2 3  CREATE OR REPLACE FUNCTION test() RETURNS void AS $$ INSERT INTO mytable VALUES (30),(50) $$ LANGUAGE sql;   1b.]]></description>
 </item><item>
     <title>Basic Postgres Commands</title>
     <link>https://eddy-dot.github.io/basic-postgres-commands/</link>

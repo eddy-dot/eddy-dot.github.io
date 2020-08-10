@@ -20,6 +20,7 @@ Worry about the problem, not the solution.<br />
 **Date of birth:** 21/10/1995 <br />
 **Nationality:** Costa Rica  <br />
 **Marital Status:** Single  <br />
+**Website:** [eddy-dot.github.io](https://eddy-dot.github.io)  <br />
 
 ## Skills
 

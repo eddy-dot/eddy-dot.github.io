@@ -29,6 +29,3 @@ Example
     1.  Key result #1 Research and buy the best available domain name by July 1
     1.  Key result #2 Choose and implement the best CMS (content management system) by July 10
     1.  Key result #3 Publish the first blog post by August
-
-# Bibliography
-> Nijim, S. (n.d.). Learning Amazon Lightsail. Retrieved August 03, 2020, from https://aws.amazon.com/lightsail/

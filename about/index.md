@@ -9,7 +9,7 @@ Quickly learn and master new technologies.<br />
 
 Successful working in both team and self-directed settings.<br />
 
-Worry about the problem, not the solution.<br />
+Worry to solve the problem, not the solution.<br />
 
 
 ## Personal Details
@@ -21,6 +21,7 @@ Worry about the problem, not the solution.<br />
 **Nationality:** Costa Rica  <br />
 **Marital Status:** Single  <br />
 **Website:** [eddy-dot.github.io](https://eddy-dot.github.io)  <br />
+**Github Account:** eddy-dot  <br />
 
 ## Skills
 
@@ -32,6 +33,7 @@ Worry about the problem, not the solution.<br />
 **Frameworks**: <br /> SCRUM, Lean Startup, Kanban<br />
 **Cloud Computing**: <br /> AWS Lightsail<br />
 **Web**: <br /> Hugo<br />
+**Programming languages**: <br /> Python, Kotlin, Java, Javascript, Go, C, C++<br />
 
 ## Related Work Experience
 
@@ -42,7 +44,7 @@ Worry about the problem, not the solution.<br />
 **IT Service Desk Specialist Student** - Intel Corporation
 
 **Jan 2017 - May 2017** <br>
-**Call center representative** - SYKES LATAM 
+**Call center representative** - SYKES LATAM
 
 
 ## Education
@@ -50,8 +52,11 @@ Worry about the problem, not the solution.<br />
 **2013 - 2014** <br>
 **Associate Degree of English** - UNA (Universidad Nacional de Costa Rica)  
 
-**2016 - 2019 (interrupted)** <br>
-**Associate Degree of Software Programming** - UNA (Universidad Nacional de Costa Rica)  
+**2016 - 2019** <br>
+**Associate Degree of Software Programming** - UNA (Universidad Nacional de Costa Rica)
+
+**2016 - 2020 (interrupted)** <br>
+**Information Systems' Engineering** - UNA (Universidad Nacional de Costa Rica)  
 
 **2008 - 2012** <br>
 **High School** - Liceo Fernando Volio Jimenez

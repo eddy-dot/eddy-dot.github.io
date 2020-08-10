@@ -34,6 +34,7 @@ Worry to solve the problem, not the solution.<br />
 **Cloud Computing**: <br /> AWS Lightsail<br />
 **Web**: <br /> Hugo<br />
 **Programming languages**: <br /> Python, Kotlin, Java, Javascript, Go, C, C++<br />
+**ERP & CRM**: <br /> Odoo<br />
 
 ## Related Work Experience
 

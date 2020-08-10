@@ -62,3 +62,9 @@ Worry to solve the problem, not the solution.<br />
 **2008 - 2012** <br>
 **High School** - Liceo Fernando Volio Jimenez
 
+## Languages
+
+**Spanish**: <br /> Native<br />
+**English**: <br />Advanced<br />
+**Portuguese**:<br /> Medium<br />
+**French**:<br /> Basic (Learning)<br />

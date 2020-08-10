@@ -22,6 +22,7 @@ Worry to solve the problem, not the solution.<br />
 **Marital Status:** Single  <br />
 **Website:** [eddy-dot.github.io](https://eddy-dot.github.io)  <br />
 **Github Account:** eddy-dot  <br />
+**LinkedIn Account:** [eddyvalverde](https://www.linkedin.com/in/eddyvalverde/)  <br />
 
 ## Skills
 

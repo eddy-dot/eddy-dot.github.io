@@ -3,10 +3,10 @@
         <title>Cloud Computing - Tag - Eddy Valverde Garro</title>
         <link>https://eddy-dot.github.io/tags/cloud-computing/</link>
         <description>Cloud Computing - Tag - Eddy Valverde Garro</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://eddy-dot.github.io/tags/cloud-computing/" rel="self" type="application/rss+xml" /><item>
-    <title>Basic PL/pgSQL Settup</title>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 06 Jun 2020 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://eddy-dot.github.io/tags/cloud-computing/" rel="self" type="application/rss+xml" /><item>
+    <title>PL/pgSQL Tutorial</title>
     <link>https://eddy-dot.github.io/basic-plpgsql-commands/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <pubDate>Sat, 06 Jun 2020 21:57:40 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://eddy-dot.github.io/basic-plpgsql-commands/</guid>
     <description><![CDATA[Basic PL/PGSQL Commands  PL/pgSQL is a procedural programming language supported by the PostgreSQL ORDBMS. It closely resembles Oracle&rsquo;s PL/SQL language. The design of PL/pgSQL aimed to allow PostgreSQL users to perform more complex operations and computations than SQL, while providing ease of use.

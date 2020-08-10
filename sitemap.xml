@@ -2,39 +2,39 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://eddy-dot.github.io/basic-docker-compose-commands/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/basic-docker-compose-file/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/basic-git-bash/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/basic-linux-commands/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/basic-plpgsql-commands/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/basic-postgres-commands/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/basic-lightsail-settup/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/lean-startup/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/okrs/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/basic-linux-enviroment/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/administration/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/agile/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/aws/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/bash/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/categories/blog/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/categories/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/cloud-computing/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/database/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/docker/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/git/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/lean-startup/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/lightsail/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/linux/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/okrs/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/postgres/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/posts/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/terminal/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/categories/tutorial/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/ubuntu/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/tags/visual-code/</loc><lastmod>2020-08-06T17:47:15-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://eddy-dot.github.io/about/</loc><lastmod>2020-08-07T15:20:23-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/okrs/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/lean-startup/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/basic-postgres-commands/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/basic-plpgsql-commands/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/basic-linux-enviroment/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/basic-linux-commands/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/basic-lightsail-settup/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/basic-git-bash/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/basic-docker-compose-file/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/basic-docker-compose-commands/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/administration/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/agile/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/categories/blog/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/categories/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/okrs/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/posts/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/lean-startup/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/database/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/postgres/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/categories/tutorial/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/aws/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/cloud-computing/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/lightsail/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/docker/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/git/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/linux/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/ubuntu/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/visual-code/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/bash/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/tags/terminal/</loc><lastmod>2020-08-09T22:47:18-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://eddy-dot.github.io/about/</loc><lastmod>2020-08-09T22:41:48-06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://eddy-dot.github.io/tags/content/_index.fr/</loc><lastmod>2020-04-23T01:22:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://eddy-dot.github.io/categories/documentation/</loc><lastmod>2020-04-23T01:22:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://eddy-dot.github.io/tags/installation/_index.zh-cn/</loc><lastmod>2020-04-23T01:22:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>

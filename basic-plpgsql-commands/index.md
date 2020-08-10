@@ -1,4 +1,4 @@
-# Basic PL/pgSQL Settup
+# PL/pgSQL Tutorial
 
 
 # Basic PL/PGSQL Commands

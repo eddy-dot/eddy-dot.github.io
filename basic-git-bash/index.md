@@ -1,4 +1,4 @@
-# Basic Git Bash Commands
+# Git Bash Tutorial
 
 
 # How to use git bash

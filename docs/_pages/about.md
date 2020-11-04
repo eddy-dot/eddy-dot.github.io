@@ -3,6 +3,76 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Eddy Valverde Garro
+## Software Develover
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Experienced in object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks. <br />
+
+Technology agnostic, the right technology for the right solution.<br />
+
+Quickly learn and master new technologies.<br />
+
+Successful working in both team and self-directed settings.<br />
+
+First solve the problem, then do the coding.<br />
+
+
+## Personal Details
+
+**Name:** Eddy Valverde Garro <br />
+**Email:** 3ddyv4lverde@gmail.com  <br />
+**Phone:** +506 8530 1569  <br />
+**Date of birth:** 21/10/1995 <br />
+**Nationality:** Costa Rica  <br />
+**Marital Status:** Single  <br />
+**Website:** [eddy-dot.github.io](https://eddy-dot.github.io) <br />
+**Github Account:** [eddy-dot](https://github.com/eddy-dot)  <br />
+**Youtube Channel:** [Eddy Valverde](https://youtube.com/channel/UC_HB3F-Xjwlc_lrzLVAalyg) <br />
+**LinkedIn Account:** [eddyvalverde](https://www.linkedin.com/in/eddyvalverde/)  <br />
+
+## Languages
+
+**Spanish**: <br /> Native<br />
+**English**: <br />Advanced<br />
+**Portuguese**:<br /> Basic<br />
+
+## Technical Skills
+
+**Control Version**: <br /> Git<br />
+**DevOps**: <br /> Git Actions<br />
+**Virtualization**:<br /> Docker<br />
+**Databases**: <br />PostgreSQL,PL/pgSQL, MariaDB<br />
+**Linux**: <br /> Users& Groups permissions Management, Scripts, shells, System process management, Package Management<br />
+**Frameworks**: <br /> Agile<br />
+**Cloud Computing**: <br /> AWS Lightsail<br />
+**Programming languages**: <br /> Java, Javascript(Node.js), C++<br />
+**ERP & CRM**: <br /> Odoo<br />
+
+
+## Related Work Experience
+
+**Aug 2019 - Feb 2020** <br>
+**Technical Consultant** - Soluciones INRA <br>
+**Description:** Oracle DBA <br>
+
+**Nov 2018 - Apr 2019** <br>
+**IT Service Desk Specialist Student** - Intel Corporation
+
+**Jan 2017 - May 2017** <br>
+**Call center representative** - SYKES LATAM
+
+## Education
+
+**2020 - 2022** <br>
+**Bachelor Degree of Informatics Engineering** - UNED (Universidad Estatal a Distancia)
+
+**2016 - 2019** <br>
+**Associate Degree of Software Programming** - UNA (Universidad Nacional de Costa Rica)
+
+**2013 - 2014** <br>
+**Associate Degree of English** - UNA (Universidad Nacional de Costa Rica)  
+
+**2008 - 2012** <br>
+**High School** - Liceo Fernando Volio Jimenez
+
+

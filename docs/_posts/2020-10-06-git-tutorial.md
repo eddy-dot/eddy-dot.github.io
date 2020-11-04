@@ -3,6 +3,7 @@ title: "Git Tutorial: Building a basic website"
 date: 2020-05-15T21:57:40+08:00
 categories:
   - Blog
+  - Video
 tags:
   - Git
   - Control Version

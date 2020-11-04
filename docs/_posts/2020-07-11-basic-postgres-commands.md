@@ -1,4 +1,5 @@
 ---
+toc: true
 title: "Postgres Tutorial"
 date: 2020-07-11T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00

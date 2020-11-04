@@ -1,4 +1,5 @@
 ---
+toc: true
 title: "How to get started with Cloud Computing using AWS"
 date: 2020-04-02T21:57:40+08:00
 categories:

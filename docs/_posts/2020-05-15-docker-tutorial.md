@@ -1,4 +1,5 @@
 ---
+toc: true
 title: "Docker Tutorial: Deploying a Blog"
 date: 2020-05-15T21:57:40+08:00
 categories:

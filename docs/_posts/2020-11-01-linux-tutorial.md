@@ -1,4 +1,5 @@
 ---
+toc: true
 title: "Basic Linux Tutorial"
 date: 2020-11-01T21:57:40+08:00
 categories:

@@ -1,4 +1,6 @@
 ---
+toc: true
+
 title: "Git Tutorial: Building a basic website"
 date: 2020-05-15T21:57:40+08:00
 categories:
@@ -14,24 +16,6 @@ tags:
 
 <br/>
 [SOURCE CODE](https://github.com/eddy-dot/git-tutorial)
-
-# Table of Contents
- 1. [Required](##Required)
- 1. [How Git Works](##how-git-works)
- 2. [Steps](##Steps)
-    1. [Create github repository](###Create-github-repository)
-    1. [Clone repository](##clone-repository)
-    1. [Add file to repository](##add-file-to-repository)
-        1. [Create file](####create-file)
-        1. [Add file](####add-file)
-    1. [Commit Messages Explained](###commit-messages-explained)
-    1. [Update index.html](###update-index.html)
-    1. [Add style customization to index.html](###Add-style-customization-to-index.html)
-        1. [Create styles.css](####Create-styles.css)
-    1. [Check commit history](###Check-commit-history)
-    1. [Navigate through branches](###Navigate-through-branches)
-    1. [Update main branch with the branch we just created](###Update-main-branch-with-the-branch-we-just-created)
-    1. [Send changes to git server(github.com)](###Send-changes-to-git-server(github.com))
 
 
 ## Required:

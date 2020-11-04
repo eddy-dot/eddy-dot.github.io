@@ -1,4 +1,5 @@
 ---
+toc: true
 title: "PL/pgSQL Tutorial"
 date: 2020-06-06T21:57:40+08:00
 categories:

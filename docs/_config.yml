@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Eddy Valverde"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "First solve the problem, then do the coding."
   links:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"

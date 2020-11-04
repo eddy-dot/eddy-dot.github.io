@@ -1,5 +1,5 @@
 ---
-title: "Linux Tutorial: Permissions"
+title: "Basic Linux Tutorial"
 date: 2020-11-01T21:57:40+08:00
 categories:
   - Blog
@@ -28,6 +28,7 @@ tags:
 -   And **Other**, which is not the owner NOR a member of the group
 
 Each actor can perform 3 actions:
+
 |Action | Symbol| 
 |-------|-------|
 |Read   | **r** |
@@ -35,6 +36,7 @@ Each actor can perform 3 actions:
 |Execute| **x** |
 
 Combination of the actions with number:
+
 |Number | Symbol| 
 |-------|-------|
 |   0   |  ---  |

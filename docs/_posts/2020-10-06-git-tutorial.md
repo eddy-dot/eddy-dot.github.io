@@ -7,6 +7,7 @@ categories:
 tags:
   - Git
   - Control Version
+  - Bash
 ---
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c4SXBSBHlGY/0.jpg)](https://www.youtube.com/watch?v=c4SXBSBHlGY)

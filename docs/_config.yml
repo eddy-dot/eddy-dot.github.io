@@ -16,9 +16,7 @@
 title: Eddy Valverde
 email: 3ddyv4lverde@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is  a computer science and software development blog where videos, code and tutorials are shared with the world.
 twitter_username: 3ddyv4l
 github_username: eddy-dot
 minimal_mistakes_skin: default

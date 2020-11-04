@@ -16,8 +16,14 @@ tags:
 
 [SOURCE CODE](https://github.com/eddy-dot/mevn-jwt)
 
-App was started with [mevn-cli](https://mevn.madlabs.xyz/) </br>
-JWT was implemented with [this post!](https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/) </br>
+App was started with [mevn-cli](https://mevn.madlabs.xyz/) 
+
+</br>
+
+JWT was implemented with [this post!](https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/) 
+
+</br>
+
 Front end was implemented with [this post!](https://www.digitalocean.com/community/tutorials/handling-authentication-in-vue-using-vuex)
 
 # How to deploy the app

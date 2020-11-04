@@ -26,7 +26,7 @@ The option to start the cloud computing power is using Amazon Lightsail. As Niji
 ### 2. Once in the aws console, look for **Lightsail** Service, and click on it.
 <br />
 
-![Leave as default](lightsail.png) 
+![Leave as default](/assets/img/lightsail.png) 
 <br />
 
 ### 3. Let’s create a new instance

@@ -12,6 +12,3 @@ link: https://github.com/eddy-dot/Non-repeated-Character-In-a-String
 
 A function to find the first non-repeated character in a string
 
-> Non-repeated Character In a String
-
-Some [link](#) can also be shown.

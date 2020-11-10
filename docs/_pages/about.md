@@ -63,8 +63,9 @@ First solve the problem, then do the coding.<br />
 
 ## Education
 
-**2020 - 2022** <br>
-**Bachelor Degree of Informatics Engineering** - UNED (Universidad Estatal a Distancia)
+**2019 - 2021** <br>
+**Bachelor Degree of Systems Information's Engineering** - UNA (Universidad Nacional de Costa Rica) <br>
+*121/140 CREDITS COMPLETED* <br>
 
 **2016 - 2019** <br>
 **Associate Degree of Software Programming** - UNA (Universidad Nacional de Costa Rica)

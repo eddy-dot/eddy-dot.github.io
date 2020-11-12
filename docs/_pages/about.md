@@ -83,14 +83,15 @@ Technologies used: Odoo, Docker, Postgres, Git, Electronic Billing, Amazon Web S
  **Technologies used:** Linux, Git support, NetBackup, Team City, Windows Server <br>
  **Frameworks used:** Kanban <br>
  **Description:**
-  + Customer service
-  + Troubleshooting
-  + Network protocols
-  + Cloud computing
-  + Windows operating system
-  + Linux command line
-  + Systems administration
-  + Encryption algorithms and techniques
+  + Working remotely without GUI and understating of SSH.
+  + Good knowledge of shell scripts  
+  + Manage file system permissions for users and groups and apply system policy.
+  + Manage networks, VPNs
+  + Create, Delete and modify user and groups
+  + File sharing for windows and Linux ( samba, NFS )
+  + Resolving customer issues via email and video conferencing
+  + Creating or updating documentation based on customer interactions.
+  + Working with kanban framework
 
 
 **Jan 2017 - May 2017** <br>

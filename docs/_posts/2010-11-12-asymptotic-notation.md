@@ -1,4 +1,5 @@
 ---
+toc: true
 title: "Asymptotic Notation"
 date: 2020-11-12T21:57:40+08:00
 categories:

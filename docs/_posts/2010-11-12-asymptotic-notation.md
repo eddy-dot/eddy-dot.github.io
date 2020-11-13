@@ -10,6 +10,13 @@ tags:
   - Algorithms
 
 ---
+##  Cheatsheet
+
+| |constant|logarithmic|linear|quadratic|cubic  |exponential|
+|-|--------|-----------|------|---------|-------|-----------|
+|n|O(1)    |O(log n)   |O(n)  |O(n^2)   |O(n^3) |O(2^n)     |
+
+
 
 You've probably heard people talk about a fast or efficient algorithm for executing your particular task, but what exactly does it mean for an algorithm to be fast or efficient? 
 Well, it's not talking about a measurement in real time, like seconds or minutes. This is because computer hardware and software vary drastically. My program might run slower than yours, because I'm running it on an computer with components than yours.
@@ -75,3 +82,8 @@ A linear search, by contrast, in which you walk through every element of the arr
 ![Worst and Best Case Scenarios Θ](/assets/images/blogs/asymptotic-notation/image9.png)
 
 One more symbol used is Θ. This can be used to describe algorithms where the best and worst cases are the same. That is, if we store it in a variable before we store the string and access it later in constant time. No matter what number we're storing in that variable, we'll have to look at it. The best case is, we look at it and find the length of the string. So Ω(1) or best-case constant time. The worst case is, we look at it and find the length of the string. So, O(1) or constant time in worst case. So, since the best case and worst cases are the same, this can be said to run in Θ(1) time.
+
+###  Others
+|N-log-N   |
+|----------|
+|O(n log n)|

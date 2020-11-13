@@ -87,3 +87,6 @@ One more symbol used is Θ. This can be used to describe algorithms where the be
 |N-log-N   |
 |----------|
 |O(n log n)|
+
+##  References
+  - CS50, A.A. . (2013, January 13). Asymptotic Notation. Retrieved from https://youtu.be/iOq5kSKqeR4
